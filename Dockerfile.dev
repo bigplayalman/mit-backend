@@ -1,0 +1,12 @@
+FROM node:14-alpine
+
+WORKDIR /app
+
+COPY package.json package-lock.json entrypoint.sh ./
+COPY . .
+RUN npm ci
+ENV NODE_ENV=development
+RUN npm run build
+
+EXPOSE 5000
+CMD npm run dev
