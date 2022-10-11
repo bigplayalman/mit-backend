@@ -1,0 +1,162 @@
+start,end,name,damageType,damageActor
+0:00,0:00,Pull,Magic,Boss
+0:07,0:12,Genesis of Flame,Magic,Boss
+0:15,0:18,Conceptual Tetraflare/Octaflare,Non-Damaging,Boss
+0:21,0:24,Volcanic Torches,Non-Damaging,Boss
+,0:38,Torch Flame,Magic,Boss
+0:32,0:40,Sunforge [Scorching Fang/Sun's Pinion],Non-Damaging [Magic/Magic],Boss
+,0:41,Emergent Tetrafrlare/Octaflare,Magic,Boss
+0:42,0:48,Flameviper (1),Magic,Boss
+,0:51,Flameviper (2),Magic,Boss
+1:00,1:03,Reforged Reflection,Non-Damaging,Boss
+,1:10,Footprint,Physical,Boss
+1:11,1:17,Rearing Rampage/Uplift (1),Physical/Magic,Boss
+,1:19,Rearing Rampage/Uplift (2),Physical/Magic,Boss
+,1:21,Rearing Rampage/Uplift (3),Physical/Magic,Boss
+,1:23,Rearing Rampage/Uplift (4),Physical/Magic,Boss
+1:24,1:29,Stomp Dead (1),Physical,Boss
+,1:32,Stomp Dead (2),Physical,Boss
+,1:34,Stomp Dead (3),Physical,Boss
+,2:36,Stomp Dead (4),Physical,Boss
+1:51,1:54,Illusory Creation,Non-Damaging,Boss
+1:57,2:00,Creation on Command,Non-Damaging,Boss
+2:03,2:08,Manifold Flames,Non-Damaging,Boss
+2:01,2:09,Sunforge [Scorching Fang/Sun's Pinion],Non-Damaging [Magic/Magic],Boss
+,2:09,Hemitheos's Flare,Magic,Boss
+,2:13,Nest of Flamevipers,Magic,Boss
+2:15,2:20,Tetraflare,Magic,Boss
+2:13,2:21,Sunforge [Scorching Fang/Sun's Pinion],Non-Damaging [Magic/Magic],Boss
+2:15,2:21,Nest of Flamevipers,Magic,Boss
+,2:21,Emerging Tetrafalre,Magic,Boss
+,2:33,Torch Flame,Magic,Boss
+2:33,2:37,Genesis of Flame,Magic,Boss
+2:47,2:50,Reforged Reflection,Non-Damaging,Boss
+,2:57,Snaking Kick,Phyiscal,Boss
+3:00,3:03,Gorgomanteia,Non-Damaging,Boss
+3:06,3:09,Into the Shadows,Non-Damaging,Boss
+3:15,3:23,Petrification (1),Non-Damaging,External Actor
+3:26,???,Gorgoneion (1),???,External Actor
+,3:27,Eye of the Gorgon (1),Non-Damaging,Boss
+,3:30,Blood of the Gorgon (1),Magic,Boss
+3:23,3:31,Petrification (2),Non-Damaging,External Actor
+3:34,???,Gorgoneion (2),???,External Actor
+,3:35,Eye of the Gorgon (2),Non-Damaging,Boss
+,3:38,Blood of the Gorgon (2),Magic,Boss
+3:42,3:47,Ektothermos,Magic,Boss
+4:03,4:06,Conceptual Tetraflare/Octaflare [Stored],Non-Damaging,Boss
+4:09,4:12,Fourfold Fires,Non-Damaging,Boss
+4:13,4:18,Abyssal Fires,Magic,Boss
+4:18,4:21,Cthonic Vent,Non-Damaging,Boss
+,???,Vent 1 Resolves,???,???
+,???,Vent 2 Resolves,???,???
+4:32,4:37,Tetraflare/Octaflare,Non-Damaging,Boss
+,4:37,Emergent Tetraflare/Octaflare,Magic,Boss
+,???,Vent 3 Resolves,???,???
+4:43,4:51,Sunforge [Scorching Fang/Sun's Pinion],Non-Damaging [Magic/Magic],Boss
+,4:51,Emergent Tetraflare/Octaflare [Stored],Magic,Boss
+4:53,4:58,Flameviper (1),Magic,Boss
+,5:01,Flameviper (2),Magic,Boss
+5:11,5:14,Reforged Reflection,Non-Damaging,Boss
+,5:20,Footprint,Physical,Boss
+5:21,5:26,Quadrupedal Crush/Impact,Physical,Boss
+5:30,5:33,Conceptual Tetraflare/Diflare,Magic,Boss
+5:36,5:48,Blazing Footfalls (Indicator),Non-Damaging,Boss
+,5:49,Trailblaze  (1),???,Boss
+,5:50,Emergent Tetraflare/Diflare,Magic,Boss
+,5:54,Quadrupedal Crush/Impact,Physical,Boss
+,5:57,Trailblaze (2),???,Boss
+,5:59,Quadrupedal Crush/Impact,Physical,Boss
+,6:03,Torch Flame,Magic,Boss
+6:12,6:17,Flameviper (1),Magic,Boss
+,6:20,Flameviper (2),Magic,Boss
+6:30,6:33,Reforged Reflection,Non-Damaging,Boss
+,6:40,Snaking Kick,Physical,Boss
+6:43,6:46,Gorgomanteia,Non-Damaging,Boss
+6:49,6:52,Into the Shadows,Non-Damaging,Boss
+6:58,7:07,Petrification (1),Non-Damaging,External Actor
+,7:07,Gorgospit (1),???,Boss
+,7:07,Eye of the Gorgon (1),Non-Damaging,Boss
+7:09,7:12,Gorgoneion,???,External Actor
+,7:10,Blood of the Gorgon (1),Magic,Boss
+7:11,7:14,Illusory Creation,Non-Damaging,Boss
+,7:16,Eye of the Gorgon (2),Non-Damaging,Boss
+,7:16,Blood of the Gorgon (2),Magic,Boss
+,7:25,Gorgospit (2),???,Boss
+,7:25,Crown of the Gorgon,???,Boss
+,7:26,Breath of the Gorgon,Magic,Boss
+,1:10,Snaking Kick,Physical,Boss
+1:14,1:17,Gorgomanteia,Non-Damaging,Boss
+1:20,1:23,Into the Shadows,Non-Damaging,Boss
+1:29,1:37,Petrification (1),Non-Damaging,External Actor
+1:40,???,Gorgoneion (1),???,External Actor
+,1:40,Eye of the Gorgon (1),Non-Damaging,Boss
+,1:43,Blood of the Gorgon (1),Magic,Boss
+,1:45,Petrification (2),Non-Damaging,External Actor
+1:48,,Gorgoneion (2),???,External Actor
+,1:48,Eye of the Gorgon (2),Non-Damaging,Boss
+,1:51,Blood of the Gorgon (2),Magic,Boss
+1:56,2:01,Ektothermos,Magic,Boss
+2:16,2:19,Illusiory Creation,Non-Damaging,Boss
+2:23,2:26,Creation on Command,Non-Damaging,Boss
+2:26,2:34,Sunforge [Scorching Fang/Sun's Pinion],Non-Damaging [Magic/Magic],Boss
+2:29,2:34,Manifold Flames,Non-Damaging,Boss
+,2:35,Hemitheos's Flare,Magic,Boss
+,2:30,Nest of Flamevipers,Magic,Boss
+2:41,2:46,Tetraflare,Non-Damaging,Boss
+2:38,2:46,Sunforge [Scorching Fang/Sun's Pinion],Non-Damaging [Magic/Magic],Boss
+,2:47,Emergent Tetraflare,Magic,Boss
+,2:59,Torch Flame,Magic,Boss
+2:58,3:03,Genesis of Flame,Magic,Boss
+3:13,3:16,Reforged Reflection,Non-Damaging,Boss
+,3:22,Footprint,Physical,Boss
+3:23,3:28,Rearing Rampage/Uplift (1),Physical/Magic,Boss
+,3:30,Rearing Rampage/Uplift (2),Physical/Magic,Boss
+,3:32,Rearing Rampage/Uplift (3),Physical/Magic,Boss
+,3:34,Rearing Rampage/Uplift (4),Physical/Magic,Boss
+3:37,3:42,Stomp Dead (1),Physical,Boss
+,3:44,Stomp Dead (2),Physical,Boss
+,3:46,Stomp Dead (3),Physical,Boss
+,3:49,Stomp Dead (4),Physical,Boss
+4:03,4:06,Conceptual Tetraflare/Octaflare [Stored],Non-Damaging,Boss
+4:09,4:12,Fourfold Fires,Non-Damaging,Boss
+4:13,4:18,Abyssal Fires,Magic,Boss
+4:18,4:21,Cthonic Vent,Non-Damaging,Boss
+,???,Vent 1 Resolves,???,???
+,???,Vent 2 Resolves,???,???
+4:32,4:37,Tetraflare/Octaflare,Non-Damaging,Boss
+,4:37,Emergent Tetraflare/Octaflare,Magic,Boss
+,???,Vent 3 Resolves,???,???
+4:43,4:51,Sunforge [Scorching Fang/Sun's Pinion],Non-Damaging [Magic/Magic],Boss
+,4:51,Emergent Tetraflare/Octaflare,Magic,Boss
+4:53,5:58,Flameviper (1),Magic,Boss
+,5:01,Flameviper (2),Magic,Boss
+5:11,5:14,Reforged Reflection,Non-Damaging,Boss
+,5:21,Snaking Kick,Physical,Boss
+5:24,5:27,Gorgomanteia,Non-Damaging,Boss
+5:30,5:33,Into the Shadows,Non-Damaging,Boss
+5:39,5:47,Petrification (1),Non-Damaging,External Actor
+,5:47,Gorgospit (1),???,Boss
+5:51,5:54,Gorgoneion (1),???,External Actor
+,5:51,Blood of the Gorgon (1),Magic,Boss
+,5:51,Eye of the Gorgon (1),Non-Damaging,Boss
+5:53,5:56,Illusory Creation,Non-Damaging,Boss
+,5:57,Blood of the Gorgon (2),Magic,Boss
+,5:57,Eye of the Gorgon (2),Non-Damaging,Boss
+,6:06,Gorgospit (2),???, Boss
+,6:06,Crown of the Gorgon,???,Boss
+,6:07,Breath of the Gorgon,Magic,Boss
+6:15,6:20,Flameviper (1),Magic,Boss
+,6:24,Flameviper (2),Magic,Boss
+6:33,6:36,Reforged Reflection,Non-Damaging,Boss
+,6:43,Footprint,Physical,Boss
+6:44,6:50,Quadrupedal Crush/Impact,Physical,Boss
+6:52,6:55,Conceptual Tetraflare/Diflare,Magic,Boss
+6:58,7:10,Blazing Footfalls (Indicator),Non-Damaging,Boss
+,7:11,Trailblaze (1),Non-Damaging,Boss
+,7:12,Emergent Tetraflare/Diflare,Magic,Boss
+,7:15,Quadrupedal Crush/Impact,Physical,Boss
+,7:20,Trailblaze (2),Non-Damaging,Boss
+,7:22,Quadrupedal Crush/Impact,Physical,Boss
+,7:26,Torch Flame,Magic,Boss
+7:34,7:39,Genesis of Flame,Magic,Boss
+7:47,7:52,Genesis of Flame,Death,Boss
